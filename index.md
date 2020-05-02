@@ -2,95 +2,35 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### About me
+I am interested in the application of computer vision and machine learning for robotic systems. My previous work has focused on perception for navigation and perception for interaction e.g. affordance perception.
 
-[Link to another page](./another-page.html).
+I did my PhD at [The Visual Information Lab](https://vilab.blogs.bristol.ac.uk/) of the University of Bristol, where I was advised by [Walterio Mayol-Cuevas](http://people.cs.bris.ac.uk/~wmayol). Prior to that, I coursed the MSc in Machine Learning, Data Mining and High Performance Computing also at the University of Bristol. I did my bachelor in Mechatronics Engineering at the National Autonomous University of Mexico.
 
-There should be whitespace between paragraphs.
+I currently work doing vision for underwater robots at [Rovco](https://www.rovco.com/)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+#### Current Work
 
-# Header 1
+*   Something with AUVs but confidential
+*   Something cool with ROVs but classified
+*   Something else with vision but off the record
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+#### Previous Work
 
-## Header 2
+* Affordance perception and Learning
+  - One
+  - Two
+  - Three
+* Grasping
+  - _Towards an objective evaluation of underactuated gripper designs_. E. Ruiz, W, Mayol-Cuevas, arXiv, 2015.[[Paper](https://arxiv.org/abs/1601.04547)][[Video](https://www.youtube.com/watch?v=FnKCSIePOuc)]
+* UAV navigation
+  - Reinforcement Learning for UAV visual navigation. 2014 [[Dissertation](https://drive.google.com/file/d/1_Vu76cBUjaeJosEiWezbcfBPw0i0XP8m/view?usp=sharing)][[Video](https://www.youtube.com/watch?v=KUafuxr8fsc)]
+* Multi-robot navigation
+  - Collaborative mobile robots for vision-based autonomous transport of regular-shape objects. 2012 [[Dissertation](http://132.248.9.195/ptd2013/junio/0695212/Index.htmlTe) (in Spanish) ] [[Video](https://www.youtube.com/watch?v=J6XQy311Tek)]
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[//]:#(* Humanoid robots)
+[//]:#(- Robocup 2012. Humanoid-Soccer Kid-Size. Team dotMx.)
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
