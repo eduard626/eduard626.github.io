@@ -16,9 +16,7 @@ I currently work doing vision for underwater robots at [Rovco](https://www.rovco
 *   Something else with vision but off the record
 
 #### Previous Work
-
 * Affordance perception and Learning
-  -
   - _Egocentric affordance detection with the one-shot geometry-driven Interaction Tensor_, E. Ruiz, W. Mayol-Cuevas, CVPR Workshops, 2019. [[Paper](https://arxiv.org/abs/1906.05794)][Code]
   - _Scalable Real-Time and One-Shot Multiple-Affordance Detection_, E. Ruiz , W. Mayol-Cuevas. ICRA Workshops, 2019. [[Paper](https://r1d1.github.io/iwcmar/)][[Code]()]
   - _Where can I do this? Geometric Affordances from a Single Example with the Interaction Tensor_, E. Ruiz, W. Mayol-Cuevas, ICRA 2018, [[Paper](https://ieeexplore.ieee.org/document/8462835)][[Video](https://www.youtube.com/watch?v=4kOoxX8b3GY)][[Code](https://github.com/eduard626/interaction-tensor)]
